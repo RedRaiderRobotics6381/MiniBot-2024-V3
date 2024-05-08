@@ -56,7 +56,7 @@ public final class Constants
     public static final int kManipulatorIntakeMotorR = 15;
     public static final int kMotorPort = 4;
 
-    public static final double intakeSpeedOut = 1.00;
+    public static final double intakeSpeedOut = -1.00;
     public static final double intakeSpeedIn = 0.50;
     public static final double intakeSpeedHold = 0.062;
     public static final double posOffset = 72.5;
